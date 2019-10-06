@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import './modules/reset';
+@import './modules/vars';
+
+.hidden{
+    display: none;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0);
+    text-align: center;
+    margin: 0 auto; 
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
